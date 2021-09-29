@@ -1,0 +1,6 @@
+framework module Pods_CD_Practice {
+  umbrella header "Pods-CD_Practice-umbrella.h"
+
+  export *
+  module * { export * }
+}
